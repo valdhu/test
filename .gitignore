@@ -1,0 +1,4 @@
+.env
+*.jpg
+*.exe
+nombre_carpeta/subcarpeta
